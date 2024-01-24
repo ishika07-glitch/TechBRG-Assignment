@@ -34,6 +34,5 @@
 | ------------------------------------------- | ------------------ |
 | [ReactJS](https://reactjs.org/)             | UI Development     |
 | [Vite](https://vitejs.dev/)                 | Fast Development   |
-| [Tailwind CSS](https://tailwindcss.com/)    | Styling Efficiency |
 | [Material UI](https://mui.com/material-ui/) | UI Library         |
 | [Axios](https://axios-http.com/)            | HTTP Requests      |
